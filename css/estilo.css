@@ -1,0 +1,22 @@
+body {
+    background-color: rgb(28, 133, 253);
+    text-align: center;
+}
+
+h1, h3 {
+    color: white;
+}
+
+.titulo {
+    margin: 20px 0;
+    padding: 10px 0;
+    color: white;
+}
+
+section {
+    background-color: rgb(50, 73, 44);
+    box-shadow: 2px 2px 4px black;
+    border-radius: 5px;
+    width: 450px;
+    margin: 0 auto;
+}
